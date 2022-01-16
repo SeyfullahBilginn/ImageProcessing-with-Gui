@@ -26,6 +26,11 @@
 </div>
 
 # Some examples:
+- Open image
+<br></br>
+![Screenshot_1](https://user-images.githubusercontent.com/86732121/149654534-b7c03c04-6bc6-40b0-8911-c41ff24e64cf.png)
+<br></br>
+
 - Adjust contrast by 3
 <br></br>
 ![image](https://user-images.githubusercontent.com/86732121/149556208-3ed179d5-9e7c-462e-9717-7c6006604ab6.png)
