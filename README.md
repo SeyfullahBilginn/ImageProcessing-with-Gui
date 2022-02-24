@@ -1,13 +1,13 @@
 # ImageProcessing-with-Gui
 
-
-<h1>  </h1>
-
 <div>
   This project is implemented with python, relevant image processing libraries which are numpy, opencv, scipy and pillow. For gui, PyQt5 is used.
   A graphical user interface(gui) that a user can load and show, manipulate, and at the end save image with the functions defined below. 
+  <br></br>
+  Executable file can be downloaded from tags.
   
   <br></br>
+  ## FEATURES:
   - load and showe image
   - save image
   - blur/deblur image
@@ -25,7 +25,7 @@
   - detect edges of image
 </div>
 
-# Some examples:
+## Some examples:
 - Open image
 <br></br>
 ![Screenshot_1](https://user-images.githubusercontent.com/86732121/149654534-b7c03c04-6bc6-40b0-8911-c41ff24e64cf.png)
